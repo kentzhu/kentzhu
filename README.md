@@ -1,4 +1,4 @@
 # Kent Zhu
 
-厦门
-Golang/PHP/Python
+- 厦门
+- Golang/PHP/Python
